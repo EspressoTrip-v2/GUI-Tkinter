@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/mnt/DATA-A/Whitcher Docs/Pricing_Program/GUI Price conversion/Price&gt;&gt;sys/icons/price_sys_footer.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="cancel_button_small.svg"
+   viewBox="0 0 150.3347 33.508212"
+   height="33.508213"
+   width="150.3347"
+   id="svg3818"
+   version="1.1">
+  <metadata
+     id="metadata3824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3822">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path3047"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <linearGradient
+       id="linearGradient3040"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#00241c;stop-opacity:1;"
+         offset="0"
+         id="stop3038" />
+    </linearGradient>
+    <rect
+       id="rect560"
+       height="35.224228"
+       width="104.1043"
+       y="93.211304"
+       x="307.38098" />
+    <rect
+       id="rect554"
+       height="31.187494"
+       width="78.36541"
+       y="92.198914"
+       x="223.50262" />
+    <rect
+       id="rect546"
+       height="39.050556"
+       width="197.75626"
+       y="76.313805"
+       x="209.62302" />
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient1045">
+      <stop
+         id="stop1043"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient947">
+      <stop
+         id="stop945"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       osb:paint="solid"
+       id="linearGradient853">
+      <stop
+         id="stop851"
+         offset="0"
+         style="stop-color:#9d4dbc;stop-opacity:1;" />
+    </linearGradient>
+    <clipPath
+       id="clipPath6589-7"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         y="127.07539"
+         x="457.77646"
+         height="331.44644"
+         width="1460.2661"
+         id="rect6591-8"
+         style="opacity:0.46;fill:#9d4dbc;fill-opacity:1" />
+    </clipPath>
+    <rect
+       x="209.62302"
+       y="76.313805"
+       width="197.75626"
+       height="39.050556"
+       id="rect546-3" />
+    <rect
+       x="209.62302"
+       y="76.313805"
+       width="197.75626"
+       height="39.050556"
+       id="rect573" />
+    <rect
+       x="223.50262"
+       y="92.198914"
+       width="78.36541"
+       height="31.187494"
+       id="rect554-0" />
+    <rect
+       x="223.50262"
+       y="92.198914"
+       width="78.36541"
+       height="31.187494"
+       id="rect576" />
+    <rect
+       x="307.38098"
+       y="93.211304"
+       width="104.1043"
+       height="35.224228"
+       id="rect560-7" />
+    <rect
+       x="307.38098"
+       y="93.211304"
+       width="104.1043"
+       height="35.224228"
+       id="rect579" />
+    <rect
+       id="rect546-35"
+       height="39.050556"
+       width="197.75626"
+       y="76.313805"
+       x="209.62302" />
+    <rect
+       id="rect4260"
+       height="39.050556"
+       width="197.75626"
+       y="76.313805"
+       x="209.62302" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="false"
+     inkscape:snap-text-baseline="true"
+     inkscape:current-layer="layer1"
+     inkscape:window-maximized="1"
+     inkscape:window-y="27"
+     inkscape:window-x="0"
+     inkscape:cy="37.84274"
+     inkscape:cx="41.883492"
+     inkscape:zoom="4.2439399"
+     showgrid="false"
+     id="namedview3820"
+     inkscape:window-height="1023"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <g
+     transform="translate(-302.76577,-50.152738)"
+     inkscape:label="base"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/mnt/DATA-A/Whitcher Docs/Pricing_Program/GUI Price conversion/Price&gt;&gt;sys/icons/cancel_button.png"
+       y="51.809238"
+       x="304.42227"
+       height="30.195211"
+       width="147.0217"
+       id="rect5026"
+       style="opacity:1;fill:#ffffff;fill-opacity:0.941176;fill-rule:evenodd;stroke:#ff241c;stroke-width:3.313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <rect
+       inkscape:export-ydpi="96"
+       inkscape:export-xdpi="96"
+       inkscape:export-filename="/mnt/DATA-A/Whitcher Docs/Pricing_Program/GUI Price conversion/Price&gt;&gt;sys/icons/cancel_button_small.png"
+       y="107.07458"
+       x="297.97556"
+       height="20.085323"
+       width="97.796249"
+       id="rect5026-6"
+       style="opacity:1;fill:#ff241c;fill-opacity:1;fill-rule:nonzero;stroke:#ff241c;stroke-width:2.20375;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       transform="matrix(0.66518243,0,0,0.66518243,172.48002,56.261731)"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect546-35);fill:#ffffff;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;"
+       id="text544-2"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/DATA-A/Whitcher Docs/Pricing_Program/GUI Price conversion/Price&gt;&gt;sys/icons/cancel_button_small.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="209.62305"
+         y="101.18079"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Allerta Stencil';-inkscape-font-specification:'Allerta Stencil Bold Italic';fill:#ffffff;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round">CANCEL</tspan></tspan></text>
+  </g>
+  <g
+     transform="translate(-290.76576,-50.152738)"
+     inkscape:label="Layer 1"
+     id="layer2"
+     inkscape:groupmode="layer" />
+  <g
+     transform="translate(-232.92467,-37.276323)"
+     inkscape:label="Layer 3"
+     id="layer4"
+     inkscape:groupmode="layer">
+    <text
+       transform="translate(45.917835,-37.456515)"
+       style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect546);fill:#ff0000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;"
+       id="text544"
+       xml:space="preserve"
+       inkscape:export-filename="/mnt/DATA-A/Whitcher Docs/Pricing_Program/GUI Price conversion/Price&gt;&gt;sys/icons/cancel_button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="209.62305"
+         y="101.18079"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;font-family:'Allerta Stencil';-inkscape-font-specification:'Allerta Stencil Bold Italic';fill:#ff0000;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round">CANCEL</tspan></tspan></text>
+  </g>
+  <g
+     transform="translate(-232.92467,-37.276323)"
+     inkscape:label="Layer 2"
+     id="layer3"
+     inkscape:groupmode="layer" />
+</svg>
